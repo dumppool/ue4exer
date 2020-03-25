@@ -1,0 +1,3 @@
+A:\UE417Project\CPPtut\Source\CPPtut\CPPtut.Build.cs
+A:\UE417Project\CPPtut\Source\CPPtut.Target.cs
+A:\UE417Project\CPPtut\Source\CPPtutEditor.Target.cs

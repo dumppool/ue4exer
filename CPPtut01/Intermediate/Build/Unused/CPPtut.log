@@ -1,0 +1,23 @@
+﻿  Cleaning CPPtutEditor Binaries...
+  Compiling game modules for hot reload
+  Compiling game modules for hot reload
+  Performing full C++ include scan (no include cache file)
+  Parsing headers for CPPtutEditor
+    Running UnrealHeaderTool "A:\UE417Project\CPPtut\CPPtut.uproject" "A:\UE417Project\CPPtut\Intermediate\Build\Win64\CPPtutEditor\Development\CPPtutEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for CPPtutEditor in 7.8869799 seconds
+  Performing 11 actions (4 in parallel)
+  [2/11] Resource ModuleVersionResource.rc.inl
+  [3/11] Resource PCLaunch.rc
+  SharedPCH.Engine.cpp
+  Base_Character.cpp
+  Base_Character.gen.cpp
+  CPPtut.cpp
+  Player_Character.cpp
+  CPPtut.init.gen.cpp
+  Player_Character.gen.cpp
+  [10/11] Link UE4Editor-CPPtut-9781.dll
+  [11/11] Link UE4Editor-CPPtut-9781.lib
+    正在创建库 A:\UE417Project\CPPtut\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CPPtut-9781.suppressed.lib 和对象 A:\UE417Project\CPPtut\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CPPtut-9781.suppressed.exp
+    正在创建库 A:\UE417Project\CPPtut\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CPPtut-9781.lib 和对象 A:\UE417Project\CPPtut\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CPPtut-9781.exp
+  Deploying CPPtutEditor Win64 Development...
+  Total build time: 18.98 seconds (Local executor: 5.74 seconds)
