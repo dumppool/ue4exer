@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CPP_PacktTut.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{90E03791-70F9-4E6C-BAAA-764C7F1DB3EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPP_PacktTut.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CPP_PacktTutEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0A5C5A00-54AA-4907-8458-8EABF29312D1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CPP_PacktTut">
+      <UniqueIdentifier>{2C3D166C-DDF3-49D5-B251-0D3F3ED7599C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPP_PacktTut\CPP_PacktTut.Build.cs">
+      <Filter>Source\CPP_PacktTut</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CPP_PacktTut\CPP_PacktTut.cpp">
+      <Filter>Source\CPP_PacktTut</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPP_PacktTut\CPP_PacktTut.h">
+      <Filter>Source\CPP_PacktTut</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPP_PacktTut\Private">
+      <UniqueIdentifier>{2145D8C1-F22C-4350-94D1-EFEF659EFD87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CPP_PacktTut\Private\Characters">
+      <UniqueIdentifier>{B07E6015-481D-4321-B16F-EADA0E0B4E5D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPP_PacktTut\Private\Characters\Base_Character.cpp">
+      <Filter>Source\CPP_PacktTut\Private\Characters</Filter>
+    </ClCompile>
+    <Filter Include="Source\CPP_PacktTut\Public">
+      <UniqueIdentifier>{E7E59128-7029-4C21-BDB0-99ECAAE18746}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CPP_PacktTut\Public\Characters">
+      <UniqueIdentifier>{8DA0F5F5-D9F9-4595-B8DE-8ABB893FEAE2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CPP_PacktTut\Public\Characters\Base_Character.h">
+      <Filter>Source\CPP_PacktTut\Public\Characters</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\CPP_PacktTut\Public\Characters\Player_Character.h">
+      <Filter>Source\CPP_PacktTut\Public\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPP_PacktTut\Public\UI\GenericHUD.h">
+      <Filter>Source\CPP_PacktTut\Public\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPP_PacktTut\Public\UI\Widget_Gameplay.h">
+      <Filter>Source\CPP_PacktTut\Public\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\CPP_PacktTut\Private\Characters\Player_Character.cpp">
+      <Filter>Source\CPP_PacktTut\Private\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CPP_PacktTut\Private\UI\GenericHUD.cpp">
+      <Filter>Source\CPP_PacktTut\Private\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CPP_PacktTut\Private\UI\Widget_Gameplay.cpp">
+      <Filter>Source\CPP_PacktTut\Private\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\CPP_PacktTut\Public\UI">
+      <UniqueIdentifier>{a5778ab0-8ba0-46c1-9210-b15ebdd53265}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\CPP_PacktTut\Private\UI">
+      <UniqueIdentifier>{246124f2-cf05-42a1-9e09-dfd7e5c7d664}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
